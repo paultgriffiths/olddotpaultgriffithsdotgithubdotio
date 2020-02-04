@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://github.com/ptg21/research/blob/master/README.md
+    url: /publications/
 
   - title: "Talk Map"
     url: /talkmap.html
