@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: https://github.com/ptg21/research/blob/master/README.md
 
-  -title: "Talk Map"
+  - title: "Talk Map"
     url: /talks/talkmap.html
 
   - title: "Talks"
