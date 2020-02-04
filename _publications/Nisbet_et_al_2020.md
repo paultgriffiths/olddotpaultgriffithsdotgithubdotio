@@ -1,5 +1,5 @@
 ---
-title: "Methane mitigation: methods to reduce emissions,..."
+title: "Methane mitigation: methods to reduce emissions"
 collection: publications
 permalink: /publication/Nisbet_et_al_2020
 excerpt: 'box modelling of future methane pathways'
