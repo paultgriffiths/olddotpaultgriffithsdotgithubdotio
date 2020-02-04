@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://github.com/ptg21/research.md
+    url: /publications/
 
   - title: "Talks"
     url: /talks/    
