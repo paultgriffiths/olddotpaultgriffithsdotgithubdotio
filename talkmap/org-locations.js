@@ -15,9 +15,9 @@ var addressPoints = [
     16.3725042
   ],
   [
-    "Princeton, USA",
-    33.1801161,
-    -96.4980424
+    "Princeton, New Jersey, USA",
+    40.3492744,
+    -74.6592958
   ],
   [
     "Kuala Lumpur, Malaysia",
