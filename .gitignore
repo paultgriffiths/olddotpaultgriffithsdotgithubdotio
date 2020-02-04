@@ -2,3 +2,4 @@ _site/
 .ipynb_checkpoints/*
 _talks/.ipynb_checkpoints/*
 talkmap/.ipynb_checkpoints/*
+_talks/talkmap.ipynb
