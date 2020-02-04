@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. (Hons) in Chemistry, Oxford University, 1994
+* D.Phil. in Chemical Physics, Oxford University, 1998
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - : Senion Research Assistant
+  * National Centre for Atmospheric Science, Cambridge University
+  * Projects include: CMIP6 work, ACSIS work, OXBUDS work, BOXMOX work
+  * Supervisor: Alex Archibald
+  * Line Manager: John Pyle
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - : Visiting Research Scientist
+  * National Centre for Atmospheric Research, Thailand
+  * Projects include: Advisorial role
+  * Collaborator: Dr Ron Macatangay
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Cambridge University Data Champion
+* ARCHER (RIP?) HPC Champion
 
 Publications
 ======
@@ -56,4 +52,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2020: Royal Meteorological Society, programme committee member
+* 2019: UKCA Chemistry Working Group, Co-Chair
+* 2019: UKCA Science Management Board, member
