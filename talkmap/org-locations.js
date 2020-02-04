@@ -20,6 +20,11 @@ var addressPoints = [
     -74.6592958
   ],
   [
+    "Birmingham, UK",
+    52.4796992,
+    -1.9026911
+  ],
+  [
     "Kuala Lumpur, Malaysia",
     3.1516964,
     101.6942371
