@@ -4,7 +4,7 @@ main:
     url: https://github.com/ptg21/research/blob/master/README.md
 
   - title: "Talk Map"
-    url: /talks/talkmap.html
+    url: talks/talkmap.html
 
   - title: "Talks"
     url: /talks/    
