@@ -8,7 +8,7 @@ date: 2020-01-28
 location: "Cambridge, United Kingdom"
 ---
 
-[Slides](https://https://ptg21.github.io/files/Griffiths_2020-01-28_CH4.pdf)
+[Slides](https://https://paultgriffiths.github.io/files/Griffiths_2020-01-28_CH4.pdf)
 Methane emissions in a chemistry-climate model: feedbacks and response
 Paul Griffiths, Ines Heimann, Nicola Warwick, Luke Abraham, Alex Archibald, John Pyle
 
