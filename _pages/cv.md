@@ -16,13 +16,13 @@ Education
 
 Work experience
 ======
-* 2018 - : Senion Research Assistant
+* 2018 - : Senior Research Assistant
   * National Centre for Atmospheric Science, Cambridge University
   * Projects include: CMIP6 work, ACSIS work, OXBUDS work, BOXMOX work
   * Supervisor: Alex Archibald
   * Line Manager: John Pyle
 
-* 2017 - : Visiting Research Scientist
+* 2017 - 2020 : Visiting Research Scientist
   * National Centre for Atmospheric Research, Thailand
   * Projects include: Advisorial role
   * Collaborator: Dr Ron Macatangay
