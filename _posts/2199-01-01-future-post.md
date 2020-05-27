@@ -1,11 +1,18 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'May 2020 overview'
+date: 2020-05-27
+permalink: /posts/2020/05/summary/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - overview
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+- submit JAMES paper for re-review
+- first look at MRI Ozone budget data
+- first look at CCMI REFC1SD 
+- finish up tropospheric ozone burden calculation for CESM2-WACCM
+- finish up validation script for tropopsheric ozone burden calculation for GFDL-ESM4 
+- review paper for JAMES
+- work on ERF paper review
+- first look at histSST, histSST-piAer, histSST-piCH4 and histSST-piO3 ozone budget data
+- attend Software Carpentry course
+- present at group CH4/H2 meeting, and to Stanford group
