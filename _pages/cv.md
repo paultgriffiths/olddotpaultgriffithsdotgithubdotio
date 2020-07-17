@@ -26,30 +26,37 @@ Work experience
   * National Centre for Atmospheric Research, Thailand
   * Projects include: Advisorial role
   * Collaborator: Dr Ron Macatangay
-  
-Skills
+
+
+Recent training
+======
+* Software Carpentry, Swansea Team (@EdBennett, Chennakesava Kapada and others) May 20-21, 2020
+* Schmidt Data for Science Residency, July 2020.
+
+Other activities
 ======
 * Cambridge University Data Champion
 * ARCHER (RIP?) HPC Champion
+* Centre for Open Science 'Ambassador'
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * 2020: Royal Meteorological Society, programme committee member
