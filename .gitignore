@@ -4,3 +4,4 @@ _talks/.ipynb_checkpoints/*
 talkmap/.ipynb_checkpoints/*
 _talks/talkmap.ipynb
 blog.code-workspace
+.DS_Store
