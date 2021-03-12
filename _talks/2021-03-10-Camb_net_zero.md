@@ -12,4 +12,6 @@ Paul Griffiths, and others
 
 [Slides](https://paultgriffiths.github.io/files/2021-03-10-CambZero.pdf)
 
-An overview of my recent work on ERFs as part of the CAS project on the H2 economy
+An overview of my recent work on ERFs as part of the CAS project on the H2 economy.
+
+For those who don't read slides, the talk is available at [YouTube](https://youtu.be/5PYb8Y_bgtI?t=4606)
