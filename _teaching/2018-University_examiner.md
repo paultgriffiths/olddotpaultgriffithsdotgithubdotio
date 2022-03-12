@@ -4,7 +4,7 @@ collection: teaching
 type: "Examining"
 permalink: /teaching/2018-IB-examiner
 venue: "Cambridge University, Chemistry Department"
-date: 2018
+date: 2017-12-31-2018-06-30
 location: "Cambridge, United Kingdom"
 ---
 
