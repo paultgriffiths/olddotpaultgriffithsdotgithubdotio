@@ -2,9 +2,9 @@
 title: "Methane emissions in a chemistry-climate model: feedbacks and response"
 collection: talks
 type: "Talk"
-permalink: /talks/2020-01-29
-venue: " Bounding the Role of Methane in the Earth System, Chemistry Department, Cambridge,  United Kingdom"
-date: 2020-01-28
+permalink: /talks/2020-02-11
+venue: " A meeting on Bounding the Role of Methane in the Earth System, Chemistry Department, Cambridge,  United Kingdom"
+date: 2020-02-11
 location: "Cambridge, United Kingdom"
 ---
 
