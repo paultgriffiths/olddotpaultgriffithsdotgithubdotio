@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-[Active Reseach](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [(Google Scholar Profile)](https://scholar.google.com/citations?user=lQ4Yvs4AAAAJ)
+[Active Reseach](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [(Google Scholar Profile)](https://scholar.google.co.uk/citations?user=8hAOwbUAAAAJ&hl=en)
 
 <h2 id="active">
 Active Research
