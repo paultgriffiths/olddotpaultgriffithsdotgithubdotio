@@ -9,10 +9,14 @@ author_profile: true
 <h2 id="active">
 Active Research
 </h2>
+- High resolution atmospheric chemistry modelling - see a [recent post](posts/2023-11-24-N216.md)
+- Impact of the COP26 Global Methane Pledge - with colleagues at Met Office Hadley Centre
+- TerraFIRMA: Future Impacts, Risks and Mitigation Actions in a changing Earth system - WP2 co-lead
+- RAMIP (starting 2024) 
 
 ### Working Papers
 AerChemMIP retrospective
-
+Effect of Montreal Protocol on tropospheric oxidising capacity
 
 ### Selected Works in Progress
 
