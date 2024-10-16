@@ -15,12 +15,18 @@ Active Research
 - RAMIP (starting 2024) 
 
 ### Working Papers
-AerChemMIP retrospective
-Effect of Montreal Protocol on tropospheric oxidising capacity
-
-### Selected Works in Progress
+TOAR ML4O3 Machine learning paper
+TOAR ROSTEES 'Role of the stratosphere in tropospheric ozone' assessment paper
 
 ## Published papers
+
+### 2023 
+- Short-term forecasting of ozone air pollution across Europe with transformers.  DOI:10.1017/eds.2023.37
+
+- The regional aerosol model intercomparison project (RAMIP).  DOI:10.5194/gmd-16-4451-2023
+
+- Atmospheric composition and climate impacts of a future hydrogen economy.  DOI:10.5194/acp-23-13451-2023
+
 ### 2022 
 
 - The role of future anthropogenic methane emissions in air quality and climate. DOI:10.1038/s41612-022-00247-5 
