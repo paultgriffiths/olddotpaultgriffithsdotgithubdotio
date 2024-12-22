@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paul Griffiths / Eternal post-doc"
+title                    : "Paul Griffiths uses models to study atmospheric chemistry"
 title_separator          : "-"
 name                     : &name "Paul Griffiths"
 description              : &description "personal description"
